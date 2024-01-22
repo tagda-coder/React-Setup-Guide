@@ -1,5 +1,5 @@
 ## React Project Setup along with Tailwind CSS
-### Follow these Steps => 
+### Follow these Steps : 
 ```bash
 1. Go to Tailwind.css Website 
 2. Click on Docs
