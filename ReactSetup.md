@@ -23,13 +23,13 @@ $ npm run dev
 ```
 
 ### Now, We will Integrate Tailwind CSS in React
-<div style= "color:black; font-weight:800; background-color:white; text-align:center">1.Install Tailwind Css</div>
+<div style= "color:black; font-weight:800; background-color:white; text-align:center">1. Install Tailwind Css</div>
 
 ```
 $ npm install -D tailwindcss postcss autoprefixer
 $ npx tailwindcss init -p
 ```
-<div style= "color:black; font-weight:800; background-color:cyan; text-align:center">2.Configure Your Template Paths in <span style="font-style:italic; color:blue">"tailwind.config.js"</span> file</div>
+<div style= "color:black; font-weight:800; background-color:cyan; text-align:center">2. Configure Your Template Paths in <span style="font-style:italic; color:blue">"tailwind.config.js"</span> file</div>
 
 ```css
   content: [
@@ -44,12 +44,12 @@ $ npx tailwindcss init -p
 @tailwind components;
 @tailwind utilities;
 ```
-<div style= "color:black; font-weight:800; background-color:white; text-align:center">4.Start Your Build Process <span>in "Terminal"</span></div>
+<div style= "color:black; font-weight:800; background-color:white; text-align:center">4. Start Your Build Process <span>in "Terminal"</span></div>
 
 ```bash
 $ npm run dev
 ```
-<div style= "color:black; font-weight:800; background-color:pink; text-align:center">5.Start Building Project Using React with Tailwind</div>
+<div style= "color:black; font-weight:800; background-color:pink; text-align:center">5. Start Building Project Using React with Tailwind CSS</div>
 
 ```js
 export default function App() {
